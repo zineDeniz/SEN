@@ -1,2 +1,9 @@
 # SEN
-Visual studio code uygulamasında python yazılım dili ile yazılmıştır
+Visual studio code uygulamasında python yazılım dili ile yazılmıştır 
+# Yüklenmesi gereken kod
+Windows
+pip install matplotlib numpy
+MacOS
+pip3 install matplotlib numpy 
+Not: Eğer pip çalışmıyorsa, python -m pip install matplotlib numpy şeklinde deneyin.
+
