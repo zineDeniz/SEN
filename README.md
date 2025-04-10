@@ -6,7 +6,7 @@ Visual studio code uygulamasında python yazılım dili ile yazılmıştır
 Windows için;
 pip install matplotlib numpy
 
-MacOS için;
+MacOS/Linux için;
 pip3 install matplotlib numpy 
 
 Not: Eğer pip çalışmıyorsa, python -m pip install matplotlib numpy şeklinde deneyin.
